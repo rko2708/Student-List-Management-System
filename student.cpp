@@ -1,7 +1,8 @@
 #include <bits/stdc++.h> 
+
 using namespace std; 
 
-// Structure to store date
+// Structure to store the date
 struct date
 {
 	int day,month,year;
