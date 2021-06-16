@@ -17,7 +17,7 @@ struct student
 
 struct TrieNode 
 { 
-	// Each Trie Node contains a Map 'child' 
+	// Eachhh Trie Node contains a Map 'child' 
 	// where each alphabet points to a Trie 
 	// Node. 
 	// We can also use a fixed size array of 
